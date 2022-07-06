@@ -1,0 +1,16 @@
+{
+  "name": "todolist-restfull-api",
+  "version": "1.0.0",
+  "description": "restfull api with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restfull",
+    "api",
+    "nodejs"
+  ],
+  "author": "vernandodev",
+  "license": "ISC"
+}
